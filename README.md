@@ -36,7 +36,7 @@
 5. **编辑脚本：**
 打开 check_eth_balance.py，将 eth_addresses 列表中的占位符以太坊地址替换为您要检查的地址。
 
-6. **安装依赖：**
+6. **运行指令：**
 
    ```bash
    python check_eth_balance.py
